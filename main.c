@@ -2,7 +2,7 @@
 #include"odcinki.c"
 
 int main(){
-    int n,cas=1;
+    int n,cas=0;
     Point p1,p2,p3,p4;
     Segm s1,s2,s3,s4,d1,d2;
 
